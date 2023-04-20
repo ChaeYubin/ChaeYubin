@@ -20,7 +20,7 @@
   <br/>
   <br/>
   
-  ### ⭐ What I used at least once
+  ### ✔️ What I used at least once
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Native-61DBFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
