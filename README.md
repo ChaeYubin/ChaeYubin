@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Native-61DBFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=JAVA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
@@ -49,7 +49,7 @@
   
   [![Yubin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yubin&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyubin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyubin&layout=compact&theme=radical&exclude_repo=front-handout-0406,frontend-handout-0330,front-handout-0316,productive-box)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 **ChaeYubin/ChaeYubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
