@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,7,30&height=160&section=header&text=Enjoy%20Yubin's%20GitHub&fontSize=30&animation=fadeIn&fontAlignY=32&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=160&section=header&text=Enjoy%20Yubin's%20GitHub&fontSize=30&animation=fadeIn&fontAlignY=32&fontColor=ffffff)
 
 <div align="center">  
   
@@ -64,4 +64,4 @@ Here are some ideas to get you started:
   
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,7,30&height=160&section=footer)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=160&section=footer)  
