@@ -2,11 +2,12 @@
 
 <div align="center">  
   
-  ## Hi there 👋
+  # Hi there 👋
   <br/>
   
   웹 프론트엔드 개발자를 꿈꾸고 있습니다😉
-  <br/>  
+  <br/>
+  <br/>
          
   ### 🌟 Main Stack    
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
