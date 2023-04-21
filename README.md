@@ -49,7 +49,7 @@
   
   [![Yubin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yubin&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyubin&layout=compact&theme=radical&exclude_repo=front-handout-0406,frontend-handout-0330,front-handout-0316,productive-box)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubin&layout=compact&theme=radical&exclude_repo=front-handout-0406,frontend-handout-0330,front-handout-0316,productive-box)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 **ChaeYubin/ChaeYubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
