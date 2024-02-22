@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=160&section=header&text=Enjoy%20Yubin's%20GitHub&fontSize=30&animation=fadeIn&fontAlignY=32&fontColor=ffffff)
 
 <div align="center">
+  
   # Hi there 👋
+  <br/>
   
   웹 풀스택 개발자를 꿈꾸고 있습니다😉
   <br/>
