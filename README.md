@@ -1,15 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=160&section=header&text=Enjoy%20Yubin's%20GitHub&fontSize=30&animation=fadeIn&fontAlignY=32&fontColor=ffffff)
 
-<div align="center">  
+<div align="center">
   
   # Hi there 👋
   <br/>
   
-  웹 프론트엔드 개발자를 꿈꾸고 있습니다😉
-  <br/>
+  웹 풀스택 개발자를 꿈꾸고 있습니다😉
   <br/>
          
-  ### 🌟 Main Stack    
+  #### 🌟 Main Stack    
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -20,7 +19,7 @@
   <br/>
   <br/>
   
-  ### ✔️ What I used at least once
+  #### ✔️ What I used at least once
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Native-61DBFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
@@ -45,7 +44,7 @@
   <br/>
   <br/>
   
-<!--   ![Yubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyubin&show_icons=true&theme=radical) -->
+  ![Yubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyubin&show_icons=true&theme=radical)
   
   [![Yubin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yubinxxx&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
