@@ -45,7 +45,7 @@
   <br/>
   <br/>
   
-  ![Yubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyubin&show_icons=true&theme=radical)
+<!-- ![Yubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyubin&show_icons=true&theme=radical) -->
   
   [![Yubin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yubinxxx&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
