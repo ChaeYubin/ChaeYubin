@@ -1,11 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=160&section=header&text=Enjoy%20Yubin's%20GitHub&fontSize=30&animation=fadeIn&fontAlignY=32&fontColor=ffffff)
-
-<div align="center">
+<div>
   
-  # Hi there 👋
-  <br/>
-  
-  웹 프론트엔드 개발자를 꿈꾸고 있습니다😉
+  #### 🌟 About ME
+  [Tech Blog](https://yubin-dev-log.vercel.app/)
   <br/>
   <br/>
          
@@ -22,7 +18,7 @@
   <br/>
   <br/>
   
-  #### ✔️ What I used at least once
+  #### ✔️ Used at least once
   <img src="https://img.shields.io/badge/React Native-61DBFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
@@ -72,5 +68,3 @@ Here are some ideas to get you started:
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChaeYubin&count_bg=%23444841&title_bg=%23F220CB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   
 </div>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7&height=160&section=footer)  
