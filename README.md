@@ -1,7 +1,7 @@
 <div>
   
   #### 🌟 About Me
-  [Tech Blog](https://yubin-dev-log.vercel.app/)
+  [Blog](https://yubin-dev-log.vercel.app/)
   <br/>
   <br/>
          
