@@ -48,7 +48,7 @@
   
 <!-- ![Yubin's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyubin&show_icons=true&theme=radical) -->
   
-  [![Yubin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yubinxxx&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Yubin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yubinxxx&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyubin&layout=compact&theme=radical&exclude_repo=front-handout-0406,frontend-handout-0330,front-handout-0316,productive-box)](https://github.com/anuraghazra/github-readme-stats) -->
   
